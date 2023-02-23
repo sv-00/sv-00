@@ -1,6 +1,5 @@
-<img>
-### Hi there 👋
 ![LinkedIn Banner](https://user-images.githubusercontent.com/108364852/220935250-4ae7e7c9-b3c8-4be8-bda1-f9b7f372c726.png)
+### Hi there 👋
 
 <!--
 **sv-00/sv-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
