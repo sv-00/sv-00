@@ -4,8 +4,9 @@ I'm a Self taught web developer with prior programming knowledge.
 I've learnt from the best mentors on YouTube
 I write better code 🤑
 
-My Skills: NextJs, React, Redux, Tailwind Css, Typescript, Javascript, MongoDb, Prisma, Tan Stack query, Zod, Valibot, HTML, CSS.
 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,js,mongodb,planetscale,prisma,postgres,html,css)](https://skillicons.dev)
+Tan Stack query, Zod, Valibot, Zustand
 I have apt knowledge with React Hooks. 
 
 - 🔭 I’m currently working on attendacepro.live (already in production)
