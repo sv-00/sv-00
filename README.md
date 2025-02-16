@@ -1,14 +1,29 @@
 ![LinkedIn Banner](https://github.com/user-attachments/assets/e7a28773-8310-4c27-b71f-4d2855a49c56)
 
 
-I'm a Self taught web developer with prior programming knowledge.
-I've learnt from the best mentors on YouTube
-I write better code 🤑
+# 👨‍💻 About Me  
 
+I'm a **self-taught cybersecurity enthusiast** with a strong background in web development. I’ve learned from top mentors on YouTube and always strive to write clean, efficient code. 🏆  
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,js,mongodb,prisma,html,css)](https://skillicons.dev)
-Tan Stack query, Zod, Valibot, Zustand
-I have apt knowledge with React Hooks. 
+## 🔥 Skills & Expertise  
 
-- 🔭 I’m currently working on attendacepro.live (already in production)
-- 👯 I’m looking to collaborate on NextJs Projects
+### Cybersecurity  
+- **Governance, Risk & Compliance (GRC)**  
+- **SOC Operations**  
+- **Malware Analysis**  
+- **Active Directory**  
+- **Firewall Configuration**
+
+  
+### Web Development  
+- **Frontend:** Next.js, React, TypeScript, JavaScript  
+- **State Management & Validation:** TanStack Query, Zustand, Zod, Valibot  
+- **Database:** MongoDB  
+- **Other:** React Hooks  
+
+## 🚀 Currently Working On  
+- Cybersecurity projects, including setting up SOC labs, malware analysis environments, and Active Directory security.  
+
+---
+
+Feel free to connect!  
